@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity implements MyRegulator2.OnRe
 
         vDemo.setBackgroundColor(Color.parseColor("#" + redHex + greenHex + blueHex));
 
+
     }
 
 
